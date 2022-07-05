@@ -1,0 +1,28 @@
+.App{
+    display: flex;
+}
+.App,div{
+    flex:1;
+}
+#mainContent{
+    margin-top: 150px;
+    flex: 2;
+    text-align: center;
+}
+.App,h1{
+    color: #FFFFFF;
+}
+
+.result{
+    text-align: left;
+}
+pre{
+    border: 5px solid #BDBDBD;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #757575;
+}
+.error{
+    margin-top: 30px;
+    color: #F0786F;
+}
