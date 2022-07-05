@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iin_validate/static/css/main.47ea08be.css",
+    "main.js": "/iin_validate/static/js/main.98538475.js",
+    "index.html": "/iin_validate/index.html",
+    "main.47ea08be.css.map": "/iin_validate/static/css/main.47ea08be.css.map",
+    "main.98538475.js.map": "/iin_validate/static/js/main.98538475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ea08be.css",
+    "static/js/main.98538475.js"
+  ]
+}
