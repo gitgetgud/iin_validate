@@ -26,3 +26,11 @@ pre{
     margin-top: 30px;
     color: #F0786F;
 }
+button{
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #FFC107;
+}

@@ -44,7 +44,7 @@ export const IinValidator = (props) => {
                 validate(iin,props.setData)
             }}>
                 <input type='text' placeholder='iin' onChange={(e) => setIin(e.target.value)} />
-                <button type='submit'>Check</button>
+                <button type='submit'>Проверить</button>
             </form>
         </div>
     )
